@@ -1,0 +1,14 @@
+Django=5.2.4
+PyJWT=2.9.0
+asgiref=3.9.1
+django-cors-headers=4.6.0
+djangorestframework=3.16.0
+djangorestframework_simplejwt=5.5.0
+dotenv=0.9.9
+pip=23.2.1
+psycopg=3.2.5
+psycopg-binary=3.2.5
+python-dotenv=1.1.1
+rest-framework-simplejwt=0.0.2
+sqlparse=0.5.3
+typing_extensions=4.14.1
